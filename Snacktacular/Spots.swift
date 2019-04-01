@@ -9,4 +9,5 @@
 import Foundation
 class Spots {
     var spotArray = [Spot]()
+    //this is a tester comment
 }
